@@ -15,10 +15,10 @@ const getElement = (selection) => {
   throw new Error(`Please check "${selection}" selector, no such element exist`)
 }
 
-const formatPrice = () => {}
+const formatPrice = () => { }
 
-const getStorageItem = () => {}
-const setStorageItem = () => {}
+const getStorageItem = () => { }
+const setStorageItem = () => { }
 
 export {
   allProductsUrl,
